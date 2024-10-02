@@ -1,5 +1,5 @@
 {
-    "name": "elfsundae/laravel-apps",
+    "name": "omergy/laravel-apps",
     "type": "library",
     "description": "Laravel multi-application support.",
     "keywords": ["laravel", "multi", "multiple", "application", "assets", "domain"],
